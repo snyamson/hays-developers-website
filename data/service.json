@@ -1,0 +1,51 @@
+{
+    "descriptionText": [
+      "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.",
+      "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam quis.",
+      "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi."
+    ],
+
+    "serviceItems": [
+      {
+        "serviceName": "PRE-CONSTRUCTION",
+        "serviceDesc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusan-tium doloremque laudantium",
+        "serviceIcon": "img/icon/s-icon-1.png",
+        "serviceIconHover": "img/icon/s-icon-hover-1.png"
+      },
+
+      {
+        "serviceName": "NEW-CONSTRUCTION",
+        "serviceDesc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusan-tium doloremque laudantium",
+        "serviceIcon": "img/icon/s-icon-2.png",
+        "serviceIconHover": "img/icon/s-icon-hover-2.png"
+      },
+
+      {
+        "serviceName": "REMODEL & REIMAGE",
+        "serviceDesc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusan-tium doloremque laudantium",
+        "serviceIcon": "img/icon/s-icon-3.png",
+        "serviceIconHover": "img/icon/s-icon-hover-3.png"
+      },
+
+      {
+        "serviceName": "LOCATION",
+        "serviceDesc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusan-tium doloremque laudantium",
+        "serviceIcon": "img/icon/s-icon-4.png",
+        "serviceIconHover": "img/icon/s-icon-hover-4.png"
+      },
+
+      {
+        "serviceName": "CIVIL & ARCHITECTURE",
+        "serviceDesc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusan-tium doloremque laudantium",
+        "serviceIcon": "img/icon/s-icon-5.png",
+        "serviceIconHover": "img/icon/s-icon-hover-5.png"
+      },
+
+      {
+        "serviceName": "ENGINEERING",
+        "serviceDesc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusan-tium doloremque laudantium",
+        "serviceIcon": "img/icon/s-icon-6.png",
+        "serviceIconHover": "img/icon/s-icon-hover-6.png"
+      }
+    ]
+}

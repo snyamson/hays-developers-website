@@ -1,0 +1,71 @@
+
+.quote-form {
+    padding: 4rem;
+    z-index: 9999;
+    position: fixed;
+    top: 30px;
+    left: 50%;
+    //transform: translateX(-50%);
+    width: 400px;
+    height: 90vh;
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+    //functionality
+    transform: translateX(-50%) translateY(-110%);
+    visibility: hidden;
+    opacity: 0;
+
+    transition: all .5s;
+
+    &__heading {
+        letter-spacing: .5px;
+        font-size: 2.5rem;
+        margin-bottom: 1rem;
+        padding-left: 1rem;
+    }
+
+    &__container,
+    &__input {
+        padding: .5rem 1rem !important;
+    }
+
+    &__btn {
+        width: 95%;
+        padding: 1.5rem 3rem;
+        margin-left: .7rem;
+        text-transform: uppercase;
+        background-color: $baseColor;
+        color: $pfont;
+        font-weight: bold;
+        transition: all .2s;
+
+        &:hover {
+            color: $dip;
+            box-shadow: 0 1.5rem 3rem rgba(0, 0, 0, .3);
+        }
+
+        &:active {
+            box-shadow: 0 .75rem 1.5rem rgba(0, 0, 0, .15);
+        }
+        &:focus {
+            outline: none !important;
+        }
+    }
+
+    &__close {
+        position: absolute;
+        top: 1rem;
+        right: 2rem;
+        font-size: 2rem;
+        font-weight: bold;
+        color: $pfont;
+        cursor: pointer;
+    }
+}
+
+#quote:target {
+    transform: translateX(-50%) translateY(0);
+    visibility: visible;
+    opacity: 1;
+}

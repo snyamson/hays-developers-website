@@ -1,0 +1,109 @@
+{
+  "projectTaps": [
+    "All",
+    "Buildings",
+    "Interior",
+    "Design",
+    "Isolation",
+    "Plumbing",
+    "Tiling"
+  ],
+
+  "projectItems": [
+    {
+      "projectName": "Jahanara Vila",
+      "projectImage": "img/project/project-1.jpg",
+      "projectDesc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium",
+      "projectCategory": "building",
+      "projectSummary": {
+        "clientName": "Name",
+        "service": "service",
+        "value": "Amount",
+        "yearCompleted": "date",
+        "architech": "architech Names",
+        "location": "location",
+        "summaryDesc": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed semper, lacus sed feugiat dictum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore. Proin gravida nibh vel velit hace aauctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipissum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit aasmet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio."
+      }
+    },
+
+    {
+      "projectName": "Jahanara Vila",
+      "projectImage": "img/project/project-1.jpg",
+      "projectDesc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium",
+      "projectCategory": "isolation",
+      "projectSummary": {
+        "clientName": "Name",
+        "service": "service",
+        "value": "Amount",
+        "yearCompleted": "date",
+        "architech": "architech Names",
+        "location": "location",
+        "summaryDesc": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed semper, lacus sed feugiat dictum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore. Proin gravida nibh vel velit hace aauctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipissum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit aasmet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio."
+      }
+    },
+
+    {
+      "projectName": "Jahanara Vila",
+      "projectImage": "img/project/project-1.jpg",
+      "projectDesc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium",
+      "projectCategory": "tiling",
+      "projectSummary": {
+        "clientName": "Name",
+        "service": "service",
+        "value": "Amount",
+        "yearCompleted": "date",
+        "architech": "architech Names",
+        "location": "location",
+        "summaryDesc": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed semper, lacus sed feugiat dictum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore. Proin gravida nibh vel velit hace aauctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipissum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit aasmet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio."
+      }
+    },
+
+    {
+      "projectName": "Jahanara Vila",
+      "projectImage": "img/project/project-1.jpg",
+      "projectDesc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium",
+      "projectCategory": "plumbing",
+      "projectSummary": {
+        "clientName": "Name",
+        "service": "service",
+        "value": "Amount",
+        "yearCompleted": "date",
+        "architech": "architech Names",
+        "location": "location",
+        "summaryDesc": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed semper, lacus sed feugiat dictum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore. Proin gravida nibh vel velit hace aauctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipissum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit aasmet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio."
+      }
+    },
+
+    {
+      "projectName": "g",
+      "projectImage": "img/project/project-1.jpg",
+      "projectDesc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium",
+      "projectCategory": "interior",
+      "projectSummary": {
+        "clientName": "Name",
+        "service": "service",
+        "value": "Amount",
+        "yearCompleted": "date",
+        "architech": "architech Names",
+        "location": "location",
+        "summaryDesc": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed semper, lacus sed feugiat dictum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore. Proin gravida nibh vel velit hace aauctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipissum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit aasmet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio."
+      }
+    },
+
+    {
+      "projectName": "Jahanara Vila",
+      "projectImage": "img/project/project-1.jpg",
+      "projectDesc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium",
+      "projectCategory": "design",
+      "projectSummary": {
+        "clientName": "Name",
+        "service": "service",
+        "value": "Amount",
+        "yearCompleted": "date",
+        "architech": "architech Names",
+        "location": "location",
+        "summaryDesc": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed semper, lacus sed feugiat dictum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore. Proin gravida nibh vel velit hace aauctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipissum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit aasmet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio."
+      }
+    }
+  ]
+}

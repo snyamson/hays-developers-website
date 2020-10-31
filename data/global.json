@@ -1,0 +1,40 @@
+{
+
+  "metaData" : {
+    "favicon": "img/fav-icon.png",
+    "description": "Welcome to Hays Developers Ent! We hope you like our beautiful custom designs. If you have a specific request for a design, please feel free to contact us on haysdeventerprise@gmail.com",
+    "keywords": ["Hays Developers Ent", "construction", "we build"]
+  },
+
+  "company" : {
+    "logo": ["/img/logo.png", "/img/logo-white.png"],
+    "email" : "info@company.com",
+    "location": "Tema, Ghana",
+    "workHours": "08 AM - 08PM",
+    "tel" : ["(000) - 0000000", "(111) - 1100111"],
+
+    "social": [
+      {
+        "facebookIcon": "",
+        "facebookUrl": "@facebook"
+      },
+
+      {
+        "twitterIcon": "",
+        "twitterUrl": "@twitter"
+      },
+
+      {
+        "instagramIcon": "",
+        "instagramUrl": "@instagram"
+      },
+
+      {
+        "whatsappIcon": "",
+        "whatsappUrl": "@whatsapp"
+      }
+    ]
+  }
+}
+
+
